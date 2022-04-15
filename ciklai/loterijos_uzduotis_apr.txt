@@ -1,0 +1,6 @@
+Elektroninės parduotuvės trečiojo gimtadienio proga buvo organizuota loterija, kurioje
+bilietų numeriai buvo trizenkliai skaičiai iš intervalo [s1; s2]. Laimingi bus bilietai, kurie be
+liekanos dalijasi iš trijų ir kurių bent vienas skaitmuo taip pat dalijasi iš trijų be liekanos
+(skaitmenys negali būti lygūs nuliui). Parašykite programą šiam uzdaviniui spręsti. Bilietų
+numeriai turi būti rodomi ekrane arba rezultatų faile . Pvz: Kai s1=222, s2=245 , tai ats - 231, 234, 237, 243
+

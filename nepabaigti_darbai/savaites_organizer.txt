@@ -1,0 +1,14 @@
+Paklausti vartotojo kokia siandien yra savaites diena.
+Jei tai yra pirmadienis - Pirmadienis - sudėtingiausia savaitės diena.
+Jei tai antradienis - Antradienis – aktyvių veiksmų, Marso diena.
+Jei tai trečiadienis - Trečiadienis – sandoriams sudaryti tinkamiausia diena.
+Jei tai ketvirtadienis - Ketvirtadienį reikėtų imtis visuomeninių darbų.
+Jei tai penktadienis - Penktadienį lengvai gimsta šedevrai, susitinka mylimieji. 
+
+Jei tai šeštadienis - Šeštadienis - savo problemų  sprendimo diena.
+Jei tai sekmadienis  - Sekmadienį reikėtų pradėti naujus darbus.
+Jei tokia savaites diena neegzistuoja - Tokios savaitės dienos pas mus nebūna.
+Savaitės dienų atpažinimo programą papildysime, kad savaitės dienos būtų atpažįstamos net ir tuo
+atveju, jei dienos pavadinimas buvo įvestas didžiosiomis ir mažosiomis raidėmis.
+
+print('Mažiausia reikšmė sąraše: {0}'.format(min))

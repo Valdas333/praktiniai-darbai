@@ -1,0 +1,7 @@
+1. susikurti zurnala (sarasas)
+2. vartotojo meniukas, pirmas punkas iseiti
+3. galimybe itraukti irasa i zurnala
+4. galimybe isspausdinti zurnala
+5. suskaiciuoti balansa (suma viso zurnalo nariu)
+6. galimybes redaguoti konkretu zurnalo irasa
+7. galimybe trinti konkretu zurnalo irasa
