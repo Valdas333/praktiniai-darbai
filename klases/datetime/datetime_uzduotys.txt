@@ -1,0 +1,33 @@
+1 UZDUOTIS Parašyti programą, kuri:
++ Atspausdintų dabartinę datą ir laiką
++ Atimtų iš dabartinės datos ir laiko 5 dienas ir juos atspausdintų
++ Pridėti prie dabartinės datos ir laiko 8 valandas ir juos atspausdintų
++ Atspausdintų dabartinę datą ir laiką tokiu formatu: 2019 03 08, 09:57:17
++ Patarimas: naudoti datetime, timedelta (from datetime import timedelta)
+https://www.w3schools.com/python/python_datetime.asp
+
+
+2 UZDUOTIS Parašyti programą, kuri:
++ Leistų vartotojui įvesti norimą datą ir laiką (pvz. gimtadienį)
++ Paskaičiuotų ir atspausdintų, kiek nuo įvestos datos ir laiko praėjo:
++ Metų
++ Mėnesių
++ Dienų
++ Valandų
++ Minučių
++ Sekundžių
+Kadangi tiksliai galima paskaičiuoti tik dienas ir sekundes, metus, mėnesius ir t.t. 
+paskaičiuokite apytiksliai.
+Patarimas: naudoti datetime, .days, .total_seconds()
+Skaičių suapvalinimo pavyzdys (kurio gali prireikti šioje užduotyje): print(round(skaicius))
+
++ 3. Parašykite programą, kad konvertuotumėte stringą į datetime (bet kokį ivestą su input).
+
++ 4. Parašykite programą, kad išspausdintumėte visus konkrečių metų sekmadienius.
+   
++ 5. Parašykite programą, kuri išmestų mikrosekundes nuo datos laiko.
+pvz: 2017-05-06 14:17:47
+
++ 6. Parašykite programą, kad gautumėte paskutinio antradienio datą.
+
+

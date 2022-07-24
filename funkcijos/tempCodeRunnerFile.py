@@ -1,17 +1,6 @@
-def pirminiai_skaiciai(skaicius):
-    """
-    Gražintų, ar paduotas skaičius yra pirminis.
-    Pirminis skaičius– bet kuris natūralusis skaičius, didesnis nei 1, 
-    kuris dalinasi tik iš savęs ir vieneto.
+import random
+test_list = [0, 1, 2]
+
+for test in range(4):
+    print(test_list[random.randint(0, len(test_list)-1)])
     
-    """
-    counter = 0 
-    for daliklis in range(1,skaicius):
-        if skaicius % daliklis == 0 :
-            counter += 1
-    
-    if counter < 2:
-        print(f"Skaicius {skaicius} yra pirminis")
-    else:
-        print(f"Skaicius {skaicius} yra nepirminis")
-        

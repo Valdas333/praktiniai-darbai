@@ -1,0 +1,45 @@
+Ivadine užduotis. 
+Plytos ir namas.
+Gamykla gamina kelių skirtingų dydžių plytas.
+Žinomas kiekvieno tipo plytų aukštis, plotis ir ilgis.
+Parašykite programą, kuri suskaičiuotų, kiek reikia kiekvieno tipo plytų,
+norint išmūryti 4 vienodas namo
+sienas.
+Langų ir durų nėra.
+Sienos mūrijamos tik iš vieno tipo plytų.
+
+Programos kūrimo eiga:
+Sukuriama klasė vienos plytos duomenims saugoti.
+Pagrindiniame lauke skelbiami trys objektai,
+skirti kiekvieno plytos tipo duomenims saugoti.
+Namo sienos ilgis, plotis ir aukštis perskaičiuojami plytomis.
+Gauti skaičiai sudauginami. Gautas sienos tūris plytomis ir bus ieškomas plytų skaičius.
+
+Visi rezultatai pateikiami sveikaisiais skaičiais. (int)
+Skaičiuojami kiekvieno tipo plytų kiekiai namo sienoms mūryti.
+
+1 užduotis:
+Parašyti klasę Sakinys, kuri turi savybę tekstas ir metodus, kurie:
+
+Gražina tekstą atbulai +
+Gražina tekstą mažosiomis raidėmis +
+Gražina tekstą didžiosiomis raidėmis +
+Gražina žodį pagal nurodytą eilės numerį +
+Gražina, kiek tekste yra nurodytų simbolių arba žodžių +
+Gražina tekstą su pakeistu nurodytu žodžiu arba simboliu +
+Atspausdina, kiek sakinyje yra žodžių, skaičių, didžiųjų ir mažųjų raidžių +
+Susikurti kelis klasės objektus ir išbandyti visus metodus +
+
+
+2 užduotis:
+Sukurti klasę Sukaktis, kuri turėtų savybę data (galima atskirai įvesti metus, mėnesius ir kt.) ir metodus, kurie:
+
+Gražina, kiek nuo įvestos sukakties praėjo metų, savaičių, dienų, valandų, minučių, sekundžių
+Gražina, ar nurodytos sukakties metai buvo keliamieji
+Atima iš nurodytos datos nurodytą kiekį dienų ir gražina naują datą
+Prideda prie nurodytos datos nurodytą kiekį dienų ir gražina naują datą
+
+__str__ vs __repr__
+The main difference between __str__ and __repr__ method is intended audiences.
+
+The __str__ method returns a string representation of an object that is human-readable while the __repr__ method returns a string representation of an object that is machine-readable.

@@ -1,0 +1,15 @@
+2 užduotis
+Sukurti programą, kuri:
+
+Turėtų klasę Darbuotojas +++
+Darbuotojas turėtų savybes: vardas, valandos_ikainis, dirba_nuo +++
+Turėtų privatų metodą kuris paskaičiuotų, kiek darbuotojas nudirbo dienų nuo įvestos dienos (dirba_nuo) iki šiandien (turint omeny, kad darbuotojas dirba 7 dienas per savaitę) +
+Turėtų metodą paskaiciuoti_atlyginima, kuris panaudodamas aukščiau aprašytu metodu, paskaičiuotų bendrą atlyginimą (turint omeny, kad darbuotojas dirba 8 valandas per dieną)+
+
+Turėtų klasę NormalusDarbuotojas, kuri pakeistų Darbuotojo klasę taip, kad ji skaičiuotų atlyginimą, dirbant darbuotojui 5 dienas per savaitę (nepabaigta)!!!
+
+Sukurti norimą Darbuotojo objektą
+
+Sukurti norimą NormalusDarbuotojas objektą
+
+Su abiem objektais paleisti funkciją paskaiciuoti_atlyginima

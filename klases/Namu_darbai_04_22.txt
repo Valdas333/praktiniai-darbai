@@ -1,0 +1,23 @@
++ 1_VISUS 04.22 datetime uždavinius perdaryti su KLASĖMIS - be paveldėjimo.
+
++ 2_PAVELDEJIMAS_POLIMORFIZMAS. Nekilnojamojo turto agentūra. 
++ Turite suvesti INPUT nekilnojamojo turto agentūrų duomenis (3 agentūros). 
++ Pavadinimas, adresas, telefonas.
++ Nekilnojamojo turto agentūra parduoda butus ir nuosavus namus. 
+Sukurkite klasę „RealEstate“ (savybės – miestas, mikrorajonas, gatvė, namo numeris, tipas, pastatymo metai, plotas, kambarių skaičius), 
+kurią paveldės klasės “Flat” (savybė - aukštas) ir “House” (savybė – šildymo būdas).
+*Raskite, kurioje gatvėje daugiausiai parduodamų nekilnojamo turto objektų (namų ir butų), ekrane atspausdinkite gatvės pavadinimą ir parduodamų objektų kiekį.
+*Raskite seniausią nekilnojamojo turto objektą, ekrane atspausdinkite visą jo informaciją.
+
+3_PAVELDEJIMAS_POLIMORFIZMAS.Automobilių parkas. 
+Turite suvesti INPUT automobilių parkų (3 parkai) miestas, adresas, telefonas. 
+Įmonės automobilių parką sudaro lengvieji automobiliai, krovininiai automobiliai ir autobusai. 
+Sukurkite klasę „Transport“ (savybės – valstybinis numeris, gamintojas, modelis, pagaminimo metai ir mėnuo, atliktos techninės apžiūros data, kuras, vidutinės kuro sąnaudos (100 km)),
+kurią paveldės klasės „Car“ (savybė – odometro rodmenys), 
+„Truck“ (savybė – priekabos talpa) ir „Bus“ (savybė – sėdimų vietų skaičius).
+*Raskite geriausią transporto priemonę kiekvienoje grupėje, atspausdinkite jos gamintoją, modelį, 
+valstybinius numerius ir amžių. 
+Lengvasis geriausias – nuvažiuota mažiausiai kilometrų, 
+krovininis geriausias – didžiausia priekabos talpa, 
+autobusas geriausias – daugiausia sėdimų vietų.
+*Sudarykite visų benzinu varomų lengvųjų automobilių sąrašą, ekrane atspausdinkite jų valstybinį numerį, gamintoją, modelį, bei pagaminimo metus. 
